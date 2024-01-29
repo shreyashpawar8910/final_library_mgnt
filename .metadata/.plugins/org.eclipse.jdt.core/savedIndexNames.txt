@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+G:\Projects\Library Mgnt System\final_library_mgnt\.metadata\.plugins\org.eclipse.jdt.core
+80936231.index
+2084254281.index
+953538482.index
+3978188640.index
+1522106143.index
+3650579313.index
+760091825.index
+1067094681.index
+704281196.index
+1865797976.index
+2666890475.index
+252447210.index

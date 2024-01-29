@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+G:\Projects\Library Mgnt System\final_library_mgnt\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2278416975.index
+3179728209.index
+866103919.index
+3706253196.index
+3650579313.index
+2080244996.index
